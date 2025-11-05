@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Disco Ergo Sum 🪩
 
+**Yes, this profile looks a bit empty.** My best work is tucked away in private corporate repos (thanks, NDAs).
+
+I'm currently doing some "digital spring cleaning" and migrating my personal projects to [**Codeberg**](https://codeberg.org/). You can follow my latest open-source activities there: **[DiscoErgoSum @ codeberg](https://codeberg.org/DiscoErgoSum/DiscoErgoSum#hi-i-m-disco-ergo-sum-now-officially-github-free)**
 <!--
 **Disc0erg0sum/Disc0erg0sum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
